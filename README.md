@@ -35,4 +35,4 @@ In this project, AI acts as the "Central Brain" of the operation:
 
 1. Clone the repository:
    ```bash
-   git clone (https://github.com/Ricardo-005/sentinel-ai-ops-dashboard.git)
+   git clone (https://github.com/Ricardo-005/sentinel-ai-ops-dashboard)
