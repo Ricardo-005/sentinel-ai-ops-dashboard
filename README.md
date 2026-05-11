@@ -1,6 +1,6 @@
 # 🛡️ AI Ops Sentinel - Security Monitoring Dashboard
 
-**SentinelAI** is an advanced security ecosystem built to protect web applications against modern cyber threats. This repository contains the **Operations Dashboard**, a "Silent Luxury" styled interface designed to visualize and manage threats detected by an intelligent WAF engine in real-time.
+**SentinelAI** is an advanced security ecosystem built to protect web applications against modern cyber threats. This repository contains the **Operations Dashboard**, a Silent Luxury styled interface designed to visualize and manage threats detected by an intelligent WAF engine in real-time.
 
 ---
 
