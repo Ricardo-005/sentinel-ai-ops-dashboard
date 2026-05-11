@@ -30,9 +30,3 @@ In this project, AI acts as the "Central Brain" of the operation:
 1.  **AI Risk Scoring:** Automatically evaluates the danger level of the source IP and the request payload.
 2.  **Heuristic Monitoring:** Detects suspicious behavioral patterns that traditional, rule-based firewalls might miss.
 3.  **Human-Readable Insights:** Translates complex technical logs into executive summaries, allowing for faster decision-making.
-
-## 📦 Installation & Setup
-
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/Ricardo-005/sentinel-ai-ops-dashboard](https://github.com/Ricardo-005/sentinel-ai-ops-dashboard)
