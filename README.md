@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 Experience the system in action here:
-👉 **[ACCESS LIVE DASHBOARD](aisentinel.wuaze.com/proyecto-ai/vs/view-leads)**
+👉 **[ACCESS LIVE DASHBOARD](https://aisentinel.wuaze.com/proyecto-ai/vs/view-leads.php)**
 
 ---
 
